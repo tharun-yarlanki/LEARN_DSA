@@ -1,1 +1,150 @@
+📘 DSA Syllabus (for Interviews & Coding Rounds)
+🔹 1. Basics of Programming (Foundation)
 
+Before DSA, you must know:
+
+Variables, Data Types, Operators
+
+Control Statements (if, switch)
+
+Loops (for, while, do-while)
+
+Functions (parameters, return values)
+
+Recursion (function calling itself)
+
+Time Complexity & Space Complexity (Big O notation)
+
+🔹 2. Arrays & Strings
+
+Array basics: traversal, insertion, deletion
+
+Searching: Linear Search, Binary Search
+
+Sorting: Bubble, Selection, Insertion, Merge, Quick, Heap Sort
+
+String basics: palindrome, reverse, substring, anagram, duplicates
+
+Subarrays & Substrings problems (Kadane’s Algorithm for maximum subarray sum)
+
+🔹 3. Recursion & Backtracking
+
+Factorial, Fibonacci, Power using recursion
+
+Tower of Hanoi
+
+N-Queens Problem
+
+Rat in a Maze
+
+Word Search (Backtracking)
+
+🔹 4. Linked List
+
+Singly Linked List: insertion, deletion, traversal
+
+Doubly Linked List
+
+Circular Linked List
+
+Reverse a Linked List
+
+Detect Cycle in a Linked List (Floyd’s Algorithm)
+
+Merge Two Sorted Linked Lists
+
+🔹 5. Stack & Queue
+
+Stack implementation (Array & Linked List)
+
+Applications: Balanced Parentheses, Undo operation
+
+Queue implementation (Array & Linked List)
+
+Circular Queue, Deque
+
+Priority Queue, Min/Max Heap
+
+Stack vs Queue interview problems
+
+🔹 6. Hashing
+
+Hash Tables (using array + hash function)
+
+Collisions (Chaining, Open Addressing)
+
+HashSet & HashMap usage
+
+Problems:
+
+Find duplicates
+
+Two Sum problem
+
+Frequency counting
+
+🔹 7. Trees
+
+Binary Tree basics (traversal: inorder, preorder, postorder, level order)
+
+Binary Search Tree (BST) operations
+
+Lowest Common Ancestor (LCA)
+
+Height/Depth of Tree
+
+Balanced Trees (AVL, Red-Black Tree basics)
+
+Heap Tree (for Heap Sort & Priority Queue)
+
+🔹 8. Graphs
+
+Graph Representations (Adjacency List, Matrix)
+
+BFS (Breadth First Search)
+
+DFS (Depth First Search)
+
+Shortest Path Algorithms: Dijkstra, Bellman-Ford
+
+Minimum Spanning Tree: Prim’s, Kruskal’s
+
+Topological Sort
+
+Connected Components
+
+🔹 9. Advanced Topics
+
+Greedy Algorithms (Activity Selection, Huffman Coding)
+
+Divide & Conquer (Merge Sort, Quick Sort, Binary Search)
+
+Dynamic Programming (DP)
+
+Fibonacci with DP
+
+Knapsack Problem
+
+Longest Common Subsequence
+
+Matrix Chain Multiplication
+
+Coin Change Problem
+
+Bit Manipulation Tricks
+
+Disjoint Set (Union Find)
+
+🎯 Company-Level Categorization
+
+✅ Basic Level (for freshers/placement tests)
+
+Arrays, Strings, Recursion, Searching/Sorting
+
+✅ Medium Level (for product companies)
+
+Linked List, Stack, Queue, Hashing, Subarrays, Backtracking
+
+✅ Hard Level (for top MNCs like Google, Amazon, Microsoft)
+
+Trees, Graphs, Dynamic Programming, Greedy Algorithms
